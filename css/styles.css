@@ -294,7 +294,11 @@ a:visited {
   width: 75%;
   margin: 0 auto;
 }
-
+.profile-quote-author {
+  font-family: "GothamPro-Light", Helvetica, Arial, sans-serif;
+  font-size: .75em;
+  color: #85929d;
+}
 .details-container {
   width: 100%;
   max-width: 1200px;
